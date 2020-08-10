@@ -13,7 +13,7 @@ education:
   - course: BSc in Molecular Biology 
     institution: Graz University of Technology
     year: 2010
-email: "schmidt.ruth@gmail.com"
+email: ""
 interests:
 - Microbial Ecology
 - Biodiversity
@@ -27,6 +27,9 @@ organizations:
   url: ""
 role: Mitacs Postdoctoral Fellow
 social:
+- icon: envelope 
+  icon_pack: fas
+  link: mailto:schmidt.ruth@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RuthLSchmidt
@@ -45,8 +48,10 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a microbial ecologist & data scientist based in in Tiohtià:ke/Montréal, Canada. At the moment, I work as a Postdoctoral Fellow between the Microbial Ecology group at the National Institute of Scientific Research (INRS) and the data analytics company Plotly. My research combines Omic technologies with data visualization tools, like Dash for R to study microbes that can help plants withstand drought.
+Hi! I am a microbial ecologist & data scientist based in in Tiohtià:ke/Montréal, Canada. At the moment, I am a Postdoctoral Fellow between the Microbial Ecology group at the National Institute of Scientific Research (INRS) and the data analytics company Plotly. My research focuses on studying [microbes that can help plants withstand drought](https://theconversation.com/microbial-aromas-might-save-crops-from-drought-103960) by combining Omic technologies with open source data visualization tools, like [Dash for R](https://medium.com/plotly/announcing-dash-for-r-82dce99bae13). 
 
-Apart from dealing with microbes and data, I am passionate about bridging art & science and making science more inclusive and accessible for which I have been active in organization including 500 Women Scientists, the Quebec Center for Biodiversity Science (QCBS) and the International Society for Microbial Ecology (ISME).
+To translate science into policy I have been working for organizations like the International Union for Conservation of Nature (IUCN) and the Food and Agriculture Organization (FAO) on global reports about the importance of soil biodiversity in sustainable agriculture. 
+
+When I'm not dealing with microbes and data, I merge [art & science](https://www.sciartmagazine.com/the-art-of-microbial-communication.html) and contribute to making science more inclusive and accessible for which I have been active in organization including 500 Women Scientists, the Quebec Center for Biodiversity Science (QCBS) and the International Society for Microbial Ecology (ISME). 
 
 

@@ -26,16 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Monsters"
-    tag = "Monsers"
+    name = "Plotly"
+    tag = "Plotly"
   
   [[content.filter_button]]
-    name = "Baking"
-    tag = "Baking"
+    name = "DashBio"
+    tag = "DashBio"
 
   [[content.filter_button]]
-    name = "Functional Programming"
-    tag = "Functional Programming"
+    name = "Dash for R"
+    tag = "Dash for R"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
