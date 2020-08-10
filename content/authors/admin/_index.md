@@ -1,48 +1,52 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include microbial ecology, climate change, data science and visualization.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Microbial Ecology 
+    institution: Wageningen University
+    year: 2018
+  - course: MSc in Biotechnology 
+    institution: Graz University of Technology
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: BSc in Molecular Biology 
+    institution: Graz University of Technology
+    year: 2010
+email: "schmidt.ruth@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Microbial Ecology
+- Biodiversity
+- Sustainability
+- Statistics / Data Science
+- Science Communication
+- Science Policy
+name: Ruth Lydia Schmidt
 organizations:
-- name: Stanford University
+- name: Institut National de la Recherche Scientifique (INRS) & Plotly
   url: ""
-role: Professor of Artificial Intelligence
+role: Mitacs Postdoctoral Fellow
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/RuthLSchmidt
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/nelsonbighetti/
+  link: https://www.linkedin.com/in/ruth-schmidt/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ruthlys
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am a microbial ecologist & data scientist based in in Tiohtià:ke/Montréal, Canada. At the moment, I work as a Postdoctoral Fellow between the Microbial Ecology group at the National Institute of Scientific Research (INRS) and the data analytics company Plotly. My research combines Omic technologies with data visualization tools, like Dash for R to study microbes that can help plants withstand drought.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Apart from dealing with microbes and data, I am passionate about bridging art & science and making science more inclusive and accessible for which I have been active in organization including 500 Women Scientists, the Quebec Center for Biodiversity Science (QCBS) and the International Society for Microbial Ecology (ISME).
+
+
