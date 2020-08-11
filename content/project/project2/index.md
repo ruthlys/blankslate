@@ -4,7 +4,7 @@ external_link: https://github.com/ruthlys/dash_microbiome
 image:
   caption: 
   focal_point: Smart
-summary: An example of how to build a Dashboard in Dash for R for microbiome data.
+summary: An example of how to build a Dashboard in Dash for R for microbiome data
 tags:
 - Dash for R
 - Plotly

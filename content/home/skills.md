@@ -18,19 +18,33 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "50%"
+  # description = "50%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  # description = "80%"  
+  
 
+[[feature]]
+  icon = "tachometer-alt"
+  icon_pack = "fa"
+  name = "Dash (Plotly)" 
+  
+[[feature]]
+  icon = "css3"
+  icon_pack = "fab"
+  name = "CSS"
+
+[[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML5" 
 
 +++

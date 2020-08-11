@@ -36,6 +36,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "Dash for R"
     tag = "Dash for R"
+    
+  [[content.filter_button]]
+    name = "R"
+    tag = "R"
+
+  [[content.filter_button]]
+    name = "Python"
+    tag = "Python"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
