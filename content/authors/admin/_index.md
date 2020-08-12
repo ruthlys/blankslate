@@ -48,7 +48,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a microbial ecologist & data scientist based in in Tiohtià:ke/Montréal, Canada. At the moment, I am a Postdoctoral Fellow between the Microbial Ecology group at the National Institute of Scientific Research (INRS) and the data analytics company Plotly. My research focuses on studying [microbes that can help plants withstand drought](https://theconversation.com/microbial-aromas-might-save-crops-from-drought-103960) by combining Omic technologies with open source data visualization tools, like [Dash for R](https://medium.com/plotly/announcing-dash-for-r-82dce99bae13). But I love to work with all sorts of data! 
+Hi! I am a microbial ecologist & data scientist based in Tiohtià:ke/Montréal, Canada. At the moment, I am a Postdoctoral Fellow between the Microbial Ecology group at the National Institute of Scientific Research (INRS) and the data analytics company Plotly. My research focuses on studying [microbes that can help plants withstand drought](https://theconversation.com/microbial-aromas-might-save-crops-from-drought-103960) by combining Omic technologies with open source data visualization tools, like [Dash for R](https://medium.com/plotly/announcing-dash-for-r-82dce99bae13). But I love to work with all sorts of data! 
 
 To translate science into policy I have been working for organizations like the International Union for Conservation of Nature (IUCN) and the Food and Agriculture Organization (FAO) on common ground reports about the importance of soil biodiversity in agriculture. 
 
