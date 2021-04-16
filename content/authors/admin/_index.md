@@ -7,13 +7,15 @@ education:
   - course: Mitacs Postdoctoral Fellow
     institution: Plotly & Institut National de la Recherche Scientifique (Canada)
     year: 2020
-  courses:
   - course: PhD in Microbial Ecology
     institution: Wageningen University (The Netherlands)
     year: 2017
   - course: MSc in Biotechnology
     institution: Graz University of Technology (Austria)
     year: 2012
+  - course: BSc in Molecular Biology
+    institution: Graz University of Technology (Austria)
+    year: 2010
 email: ""
 interests:
 - Climate Change & Biodiversity
