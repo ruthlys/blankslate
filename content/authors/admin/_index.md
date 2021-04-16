@@ -34,25 +34,25 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:schmidt.ruth@gmail.com
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/RuthLSchmidt
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ruth-schmidt/
 - icon: github
   icon_pack: fab
   link: https://github.com/ruthlys
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/RuthLSchmidt
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Hi! I am a microbial ecologist turned data scientist. I really enjoy digging into data and extracting and communicating meaningful information from data. Currently, I work as a freelance data scientist and policy analyst at DataMoves and as a data scientist at Nextgem - a data science consultancy firm based in The Netherlands. I have a broad range of experience working with research institutes, policy organizations and the private sector.
+Hi! I am a microbial ecologist turned data scientist. I am passionate about digging into data and extracting and communicating meaningful information from them. Currently, I work as a freelance data scientist and policy analyst at DataMoves and as a data scientist at Nextgem - a data science consultancy firm based in The Netherlands. I have a broad range of experience working with research institutes, policy organizations and the private sector.
 
 For example, during my time as a researcher I worked with microbial data and looked at how [microbes that can help plants withstand drought](https://theconversation.com/microbial-aromas-might-save-crops-from-drought-103960) by combining Omic technologies with open source data visualization tools, like [Dash for R](https://medium.com/plotly/announcing-dash-for-r-82dce99bae13). To translate science into policy, I have been working for organizations like the International Union for Conservation of Nature (IUCN) and the Food and Agriculture Organization (FAO) and the International Fund for Agricultural Development (IFAD).
 
