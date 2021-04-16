@@ -5,7 +5,7 @@ bio: My research interests include microbial ecology, climate change, data scien
 education:
   courses:
   - course: Mitacs Postdoctoral Fellow
-    institution: Plotly & Institut National de la Recherche Scientifique (Montreal)
+    institution: Plotly & Institut National de la Recherche Scientifique (Canada)
     year: 2020
   courses:
   - course: PhD in Microbial Ecology
