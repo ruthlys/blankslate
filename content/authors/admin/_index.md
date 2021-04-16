@@ -14,9 +14,6 @@ education:
   - course: MSc in Biotechnology
     institution: Graz University of Technology (Austria)
     year: 2012
-  - course: BSc in Molecular Biology
-    institution: Graz University of Technology (Austria)
-    year: 2010
 email: ""
 interests:
 - Climate Change & Biodiversity
