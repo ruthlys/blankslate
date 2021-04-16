@@ -27,7 +27,7 @@ interests:
 - Science Communication
 name: Ruth Lydia Schmidt
 organizations:
-- name: Institut National de la Recherche Scientifique (INRS) & Plotly
+- name: DataMoves & Nextgem
   url: ""
 role: Data Scientist & Analyst
 social:
