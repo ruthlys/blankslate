@@ -29,7 +29,7 @@ name: Ruth Lydia Schmidt
 organizations:
 - name: Institut National de la Recherche Scientifique (INRS) & Plotly
   url: ""
-role: Mitacs Postdoctoral Fellow
+role: Data Scientist & Analyst
 social:
 - icon: envelope
   icon_pack: fas
