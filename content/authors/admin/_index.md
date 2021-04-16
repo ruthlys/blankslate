@@ -4,18 +4,18 @@ authors:
 bio: My research interests include microbial ecology, climate change, data science and data visualization.
 education:
   courses:
-  - course: Mitacs Postdoctoral Fellow  
-    institution: Plotly
+  - course: Mitacs Postdoctoral Fellow
+    institution: Plotly & Institut National de la Recherche Scientifique (Montreal)
     year: 2020
   courses:
   - course: PhD in Microbial Ecology
-    institution: Wageningen University
+    institution: Wageningen University (The Netherlands)
     year: 2017
   - course: MSc in Biotechnology
-    institution: Graz University of Technology
+    institution: Graz University of Technology (Austria)
     year: 2012
   - course: BSc in Molecular Biology
-    institution: Graz University of Technology
+    institution: Graz University of Technology (Austria)
     year: 2010
 email: ""
 interests:
