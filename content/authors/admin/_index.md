@@ -51,7 +51,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a microbial ecologist turned data scientist. I am passionate about digging into data and extracting and communicating meaningful information from them. Currently, I work as a freelance data scientist and policy analyst at DataMoves and at Nextgem - a data science consultancy firm based in The Netherlands. Having worked with research institutes, policy organizations and the private sector, I have a broad range of experience and expertise.
+Hi! I am a microbial ecologist turned data scientist. I am passionate about digging into data and extracting and communicating meaningful information from them. Currently, I work as a freelance data and policy analyst at DataMoves and as a data scientist at Nextgem - a data science consultancy firm based in The Netherlands. Having worked with research institutes, policy organizations and the private sector, I have a broad range of experience and expertise.
 
 During my time as a researcher I looked at how [microbes that can help plants withstand drought](https://theconversation.com/microbial-aromas-might-save-crops-from-drought-103960) by combining Omic technologies with open source data visualization tools, like [Dash for R](https://medium.com/plotly/announcing-dash-for-r-82dce99bae13). To translate science into policy, I have been working for organizations like the International Union for Conservation of Nature (IUCN) and the Food and Agriculture Organization (FAO) and the International Fund for Agricultural Development (IFAD).
 
