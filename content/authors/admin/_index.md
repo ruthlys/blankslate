@@ -55,10 +55,6 @@ social:
 
 superuser: true
 
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
-
 user_groups:
 - Researchers
 - Visitors
