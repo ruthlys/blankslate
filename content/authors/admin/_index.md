@@ -1,7 +1,9 @@
 ---
 authors:
 - admin
+
 bio: My research interests include microbial ecology, climate change, data science and data visualization.
+
 education:
   courses:
   - course: Mitacs Postdoctoral Fellow
@@ -14,9 +16,11 @@ education:
     institution: Graz University of Technology (Austria)
     year: 2012
   - course: BSc in Molecular Biology
-    institution: Graz University of Technology (Austria)
+    institution: Graz University of Tecxhnology (Austria)
     year: 2010
+
 email: ""
+
 interests:
 - Climate Change & Biodiversity
 - Statistics
@@ -24,11 +28,14 @@ interests:
 - Open Science & FAIR data
 - Science Policy
 - Science Communication
+
 name: Ruth Lydia Schmidt
+
 organizations:
 - name: DataMoves & Nextgem
   url: ""
 role: Data Scientist & Analyst
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,7 +52,14 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=oz-Lf6UAAAAJ&hl=en
+
 superuser: true
+
+# Link to a PDF of your resume/CV from the About widget.
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+
 user_groups:
 - Researchers
 - Visitors
