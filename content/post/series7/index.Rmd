@@ -1,13 +1,13 @@
 ---
 authors: 
-- Mahasweta Saha
-date: "2021-05-4T00:00:00Z"
-external_link: https://www.pml.ac.uk/News_and_media/News/Understanding_the_chemical_language_of_plants_and
+- Froukje Rienks
+date: "2017-04-13T00:00:00Z"
+external_link: https://www.sciencedaily.com/releases/2017/04/170413190718.htm
 draft: false
 featured: false
 subtitle: ""
-summary: "A new paper highlights a ‘missing’ link and novel aspect of studying plant and seaweed responses to climate change by considering the chemical communication of plants and seaweeds with their associated complex communities of microbes."
-title: Understanding the chemical ‘language’ of plants and seaweeds under climate change
+summary: "Micro-organisms communicate with each other, and the rest of the world, through smells"
+title: World's most spoken language is 'Terpene' (Science Daily)
 ---
 
 

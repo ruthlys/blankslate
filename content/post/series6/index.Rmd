@@ -1,13 +1,13 @@
 ---
 authors: 
-- Froukje Rienks
-date: "2017-04-13T00:00:00Z"
-external_link: https://www.sciencedaily.com/releases/2017/04/170413190718.htm
+- admin
+date: "2018-08-13T00:00:00Z"
+external_link: https://500womenscientists.org/updates/2018/8/13/creating-new-perspectives
 draft: false
 featured: false
 subtitle: ""
-summary: "Micro-organisms communicate with each other, and the rest of the world, through smells"
-title: World's most spoken language is 'Terpene' (Science Daily)
+summary: ""
+title: Creating new perspectives (500 Women Scientists)
 ---
 
 
