@@ -9,13 +9,13 @@ external_link: https://ruthlys.github.io/presentation_NI/NI_experiment_20200622.
 image:
   caption: 
   focal_point: Smart
-summary: 
+summary: Analysis of microbiome and metabolome data from a field study
 tags:
 - R
 - Markdown
 - Microbiome
 - Metabolome
-title: Presentation of microbiome and metabolome data analysis 
+title: Markdown presentation of microbiome data analysis
 url_code: ""
 # url_code: ""
 # url_pdf: ""
