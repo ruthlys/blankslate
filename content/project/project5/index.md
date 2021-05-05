@@ -15,11 +15,11 @@ tags:
 - Markdown
 - Microbiome
 - Metabolome
-title: Microbiome and metabolome data analysis 
-url_code: "https://ruthlys.github.io/presentation_NI/NI_experiment_20200622.html#1"
+title: Presentation of microbiome and metabolome data analysis 
+url_code: ""
 # url_code: ""
 # url_pdf: ""
-# url_slides: ""
+# url_slides: "https://ruthlys.github.io/presentation_NI/NI_experiment_20200622.html#1"
 # url_video: ""
 ---
 
